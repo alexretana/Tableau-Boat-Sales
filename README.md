@@ -52,3 +52,17 @@ The next graphic is about how long the company will hold onto a boat until they 
 ![How Many Days After Price Cut Are Boats Sold](https://github.com/alexretana/Tableau-Boat-Sales/blob/master/Images/How%20Many%20Days%20After%20Price%20Cut%20Are%20Boats%20Sold.png)
 
 These two graphs can be used to compare price cut boats to non-price cut boats. It appears that most boats are sold within 300 days, with the average being 147 Days. The color coding in both graphs represent the average percent of listing price the boats were sold at. Boats put on price cut are more likely to be sold within 200 days of price cut. The light red in the price cut graph means boats are usually still sold a bit under the 90% of listing price average, but not by much. In general, boats that are "easy to sell" (sell within 150 days) tend to be the most profitable (No Surprise there).
+
+## Comparing accross different Boat Makers
+
+![Boat Sales by Maker](https://github.com/alexretana/Tableau-Boat-Sales/blob/master/Images/Boat%20Sales%20by%20Maker.png)
+
+For this next part, a python script was first used to parse out the boat maker's name from the boat models name. Usually, these boats will be named the maker follow by a number that describes the size. Although not extensive parsing, spliting and taking the first argument of each split parsed the data decently. It is clear that lagoons are boats that we sell the most of, doubling the runner up of Leopards. The color coding reveals how hard the boats are to sell by showing if the boats on average take long to sell or are quick to sell. Lagoon, leopard, and gemini sell fairly quickly. However, it appears that Legacy and Hunters tend to overstay their welcome.
+
+![Lagoon Sales (New vs. Used)](https://github.com/alexretana/Tableau-Boat-Sales/blob/master/Images/Lagoon%20Sales%20(New%20Vs.%20Used).png)
+
+What I understood from the deal that the Catamaran Company had with Lagoon manufacutre allowed us to directly list their New boats. This is great, because the average revenue on a used boat is ~380 000$ while the average revenue on a new boat is ~895 000$; more than double! Looking at this last graph, it appears that the number of used lagoons did not significantly change, but new lagoons did. Further more, the amount of revenue from the new boats would outweight the revenue of used boats during the strong quarters. Unfortunately, we no long have this deal as of last year, which shows that the number of new Lagoons sold has dipped once again.
+
+# Conclusion
+
+...
