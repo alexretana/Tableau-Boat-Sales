@@ -65,4 +65,9 @@ What I understood from the deal that the Catamaran Company had with Lagoon manuf
 
 # Conclusion
 
-...
+- We've seen success by increasing sales count, or size of deals
+- Much of our success in 2017 was driven by two main brokers
+- We sell mostly Sail boats, mostly Used boats, and usually without a price cut
+- After a price cut, a sell should expect to have to go much further lower than the cut.
+- 3% Price Cut is the most popular, and results in quicker sales
+- 
