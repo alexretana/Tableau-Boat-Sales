@@ -63,11 +63,16 @@ For this next part, a python script was first used to parse out the boat maker's
 
 What I understood from the deal that the Catamaran Company had with Lagoon manufacutre allowed us to directly list their New boats. This is great, because the average revenue on a used boat is ~380 000$ while the average revenue on a new boat is ~895 000$; more than double! Looking at this last graph, it appears that the number of used lagoons did not significantly change, but new lagoons did. Further more, the amount of revenue from the new boats would outweight the revenue of used boats during the strong quarters. Unfortunately, we no long have this deal as of last year, which shows that the number of new Lagoons sold has dipped once again.
 
-# Conclusion
+# Conclusions
 
 - We've seen success by increasing sales count, or size of deals
 - Much of our success in 2017 was driven by two main brokers
 - We sell mostly Sail boats, mostly Used boats, and usually without a price cut
 - After a price cut, a sell should expect to have to go much further lower than the cut.
 - 3% Price Cut is the most popular, and results in quicker sales
-- 
+- If we don't almost immediately price cut, we wait about 4 years, and boats that take longer than 5 years get sold at a much lower price than listed
+- Majority of non-price cut boats sell within 300 days, while majority of price cut boats sell within 200 days.
+- Usually after Price cuts, a lower price still needs to be negotiaged
+- Boats sold within 100 days are sold much closer to listing price than those after 100 days
+- Lagoons are our specialty, follow by Leopards and Geminis. The sale count is lower for the rest of the boats, but it should be noted that Legacy and Hunter boats take a bit longer to sell than average.
+- Our Used Lagoon Boats sales weren't significantly affected by our deal with the lagoon, because the deal only gave us new boats to list. It hurts our revenue because more than double revenue is generated per New boat sale vs Used boat sales.
